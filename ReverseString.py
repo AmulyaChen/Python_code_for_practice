@@ -6,5 +6,5 @@ def reverse(a):
 
 print("please enter a string:")
 a = input()
-print(reverse(a))
+print("The reverese of a string is :",reverse(a))
 
